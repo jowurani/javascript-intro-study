@@ -27,7 +27,7 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 
     ```
     Please write your answer here.
-    ```
+    ```JavaScript allows you to create dynamic behaviour to the markup you created in HTML and the styling you did in CSS. Dynamic behaviour like updating content, control multimedia, animate images, and pretty much everything else that HTML and CSS don't do. the 3-tiered cake of HTML, CSS, JavaScript analogy comes to mind.  
 
 1. Using pseudocode, show how would you translate the following problem into pseudocode:
 
