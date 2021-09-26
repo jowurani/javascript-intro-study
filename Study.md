@@ -21,8 +21,8 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 
     ```
     Please write your answer here.
-    ```
-
+    ``` Pseudocode allows you write down in plain English the instructions you will later implement as written code. Pseudocode also takes away the abstraction (complexity) of the code you will evntually write into plain English non-programmic language,so you know in plain englush how you will logcically write the code later on. It helps you to visualise how you will write the code. pseudocode makes you better programmer and do better specific google search when researching answer to problem will solve later on when write the code answer to your problem.
+    
 1. Between HTML, CSS and JavaScript, what is the main use case for JavaScript?
 
     ```
