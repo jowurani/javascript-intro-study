@@ -36,13 +36,15 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
     ```
     Please write your answer here.
     ```
+    
+   (IF thirsty THEN have some milk) 
 
 2. Using a "Fist to Five", what is your comfort and clarity level?
 
     ```
-    Comfort: 
+    Comfort: 5
 
-    Clarity: 
+    Clarity: 5
     ```
 
 ### Response Guidelines
